@@ -8,7 +8,7 @@ categories: Development
 > reference: Shota Suzumura et al. 2020 **Assessment of finger motor function that reflects the severity of
 cognitive function**
 
-## introduction
+## Introduction
 
 - Recent reports state that dementia in its early and
 pre-symptomatic stages including MCI, present not only with
@@ -49,7 +49,7 @@ movement.
 
 ---
 
-##result
+## Result
 
 ![image3](/devblog/assets/image3.png)
 
