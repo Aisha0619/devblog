@@ -22,6 +22,7 @@ Your **task** is to color the whole map without letting the same colors touch ea
 ### Gameplay
 
 When you click on a color, you will see a small circle with the selected color
+
 ![uidimage](/devblog/assets/map3.png)
 
 Drag that circle to a blank / other space to color the space with the selected color
