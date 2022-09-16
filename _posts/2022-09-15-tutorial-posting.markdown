@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tutorial posting for the game MAP"
-date:   2022-09-16 19:43:11 +0900
+date:   2022-09-15 19:43:11 +0900
 categories: Development
 ---
 ## Tutorial of "MAP"
