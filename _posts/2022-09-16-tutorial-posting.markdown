@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorial posting for the game "MAP""
+title:  "Tutorial posting for the game MAP"
 date:   2022-09-16 19:43:11 +0900
 categories: Development
 ---
@@ -32,5 +32,5 @@ When you eventually fill all the colors without letting any colors touch eachtoh
 ![uidimage](/devblog/assets/map6.png)
 ![uidimage](/devblog/assets/map7.png)
 
-there are harder versions too needing to use more brainpower 
+there are harder versions too needing to use more brainpower
 ![uidimage](/devblog/assets/map8.png)
